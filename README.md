@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @An-rag02
-- 👀 I’m interested in Competitive Programming and Software development
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Artificial Intelligence and Machine Learning.
+- 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on any project that seems interesting to me.
 - 📫 E-mail me at anrgv17@gmail.com
 
